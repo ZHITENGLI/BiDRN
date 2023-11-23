@@ -11,7 +11,7 @@ Zhiteng Li, [Yulun Zhang](http://yulunzhang.com/), Jing Lin, Haotong Qin, [Jinji
 
 |                     Image                     |                       [Hand4Whole](https://github.com/mks0601/Hand4Whole_RELEASE) (full-precision)                        | BNN |                 BiDRN (ours)                  |
 | :----------------------------------------: | :---------------------------------------------: | :----------------------------------------------: | :-----------------------------------------: |
-| <img src="figs/ori_coco_4134_2.png" height=80> | <img src="figs/fp_coco_4134_2.png" height=80> |  <img src="figs/bnn_coco_4134_2.png" height=80>  | <img src="figs/ours_coco_4134_2.png" height=80> |
+| <img src="figs/ori_coco_4134_2.png" height=160> | <img src="figs/fp_coco_4134_2.png" height=160> |  <img src="figs/bnn_coco_4134_2.png" height=160>  | <img src="figs/ours_coco_4134_2.png" height=160> |
 
 
 ## ⚒️ TODO
@@ -32,7 +32,7 @@ Zhiteng Li, [Yulun Zhang](http://yulunzhang.com/), Jing Lin, Haotong Qin, [Jinji
 We outperform existing state-of-the-art BNN-based methods and even achieve comparable performance with full-precision methods. More results can be found in the paper.
 
 <details>
-<summary>Quantitative Comparison (click to expan)</summary>
+<summary>Quantitative Comparison (click to expand)</summary>
 
 
 - results in Table 1 of the main paper
@@ -43,7 +43,7 @@ We outperform existing state-of-the-art BNN-based methods and even achieve compa
 </details>
 
 <details>
-<summary>Visual Comparison (click to expan)</summary>
+<summary>Visual Comparison (click to expand)</summary>
 
 
 
