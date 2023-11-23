@@ -9,7 +9,7 @@ Zhiteng Li, [Yulun Zhang](http://yulunzhang.com/), Jing Lin, Haotong Qin, [Jinji
 
 ---
 
-|                     Image                     |                       [Hand4Whole](https://github.com/mks0601/Hand4Whole_RELEASE) (full-precision)                        | BNN |                 BiDRN (ours)                  |
+|                     Image                     |                       [Hand4Whole](https://github.com/mks0601/Hand4Whole_RELEASE)<br>(full-precision)                        | BNN |                 BiDRN (ours)                  |
 | :----------------------------------------: | :---------------------------------------------: | :----------------------------------------------: | :-----------------------------------------: |
 | <img src="figs/ori_coco_4134_2.png" height=260> | <img src="figs/fp_coco_4134_2.png" height=260> |  <img src="figs/bnn_coco_4134_2.png" height=260>  | <img src="figs/ours_coco_4134_2.png" height=260> |
 
