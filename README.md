@@ -45,7 +45,7 @@ Quantitative Comparison
 
 
 
-Visual Comparison (click to expand)
+Visual Comparison
 
 
 
