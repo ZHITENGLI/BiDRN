@@ -26,7 +26,7 @@ Zhiteng Li, [Yulun Zhang](http://yulunzhang.com/), [Jing Lin](https://jinglin7.g
 - [ ] Training
 - [ ] Testing
 - [x] [Results](#Results)
-- [ ] Citation
+- [x] [Citation](#Citation)
 - [x] [Acknowledgements](#Acknowledgements)
 
 ## 🔎 Results
@@ -61,10 +61,12 @@ If you find the code helpful in your research or work, please cite the following
 
 ```
 @article{li2023binarized,
-    title={Binarized 3D Whole-body Human Mesh Recovery},
-    author={Li, Zhingteng and Zhang, Yulun and Lin, Jing and Qin, Haotong and Gu, Jinjin and Yuan, Xin and Kong, Linghe and Yang, Xiaokang},
-    journal={arXiv preprint arXiv:2311.14323},
-    year={2023}
+      title={Binarized 3D Whole-body Human Mesh Recovery}, 
+      author={Zhiteng Li and Yulun Zhang and Jing Lin and Haotong Qin and Jinjin Gu and Xin Yuan and Linghe Kong and Xiaokang Yang},
+      year={2023},
+      eprint={2311.14323},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
